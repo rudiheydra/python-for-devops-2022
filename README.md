@@ -1,7 +1,8 @@
 # python-for-devops-2022
 YouTube Python Devops Tutorial with Noah Gift
 
-![Python-for-Devops](https://user-images.githubusercontent.com/53549619/177129574-5bfec22a-c332-47b8-aa6b-99960ea3310e.png)
+![Python-for-Devops](https://user-images.githubusercontent.com/53549619/177129574-5bfec22a-c332-47b8-aa6b-99960ea3310e.png)![YouTube](https://user-images.githubusercontent.com/53549619/177138028-ebbfc946-90bb-4601-aa13-abdc8cfd749c.PNG)
+
 
 ## Creating Overview
 
