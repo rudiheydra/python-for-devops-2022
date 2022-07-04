@@ -8,7 +8,7 @@ YouTube Python Devops Tutorial with Noah Gift
 ### Create project scaffold
 
 #### Creating a cloud based development environment such as:
-  * Colab Notebook: Here is an example of how to use [Colab]https://colab.research.google.com/github/rudiheydra/python-for-devops-2022/blob/main/Getting_started_python_devops.ipynb#scrollTo=7OZyMC8JrUN2
+  * Colab Notebook: Here is an example of how to use [Colab](https://colab.research.google.com/github/rudiheydra/python-for-devops-2022/blob/main/Getting_started_python_devops.ipynb#scrollTo=7OZyMC8JrUN2)
 
 ### Create CLI (Command Line Tools)
 
