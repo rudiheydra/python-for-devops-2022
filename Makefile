@@ -3,13 +3,13 @@ install:
 	pip install -r requirements.txt
 
 lint:
-	pylint --disable=R,C *.py devopslib
+	pylint --disable=R,C *.py lib
 
 test:
-	python -m pytest -vv --cov=devopslib test_*.py
+	python -m pytest -vv --cov=lib test_*.py
 
 format:
-	black *.py devopslib/*.py
+	black *.py lib/*.py
 
 all: install post-install lint test format deploy
 
