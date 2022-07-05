@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 
 [![Test Multiple Python Versions](https://github.com/rudiheydra/python-for-devops-2022/actions/workflows/main.yml/badge.svg)](https://github.com/rudiheydra/python-for-devops-2022/actions/workflows/main.yml)
 # python-for-devops-2022
+=======
+[![Test Multiple Python Versions](https://github.com/rudiheydra/python-for-devops-2022/actions/workflows/main.yml/badge.svg)](https://github.com/rudiheydra/python-for-devops-2022/actions/workflows/main.yml)
+
+python-for-devops-2022
+>>>>>>> e92ef99cae5c79e44cd49b900f1ecbc57d271b68
 YouTube Python Devops Tutorial with Noah Gift
 
 
