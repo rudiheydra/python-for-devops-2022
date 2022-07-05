@@ -1,4 +1,6 @@
-# python-for-devops-2022
+[![Test Multiple Python Versions](https://github.com/rudiheydra/python-for-devops-2022/actions/workflows/main.yml/badge.svg)](https://github.com/rudiheydra/python-for-devops-2022/actions/workflows/main.yml)
+
+python-for-devops-2022
 YouTube Python Devops Tutorial with Noah Gift
 
 
