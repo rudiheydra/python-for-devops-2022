@@ -20,16 +20,24 @@ You can view the full YouTube video [here](https://www.youtube.com/watch?v=kwZNp
   * Colab Notebook: Here is an example of how to use [Colab](https://colab.research.google.com/github/rudiheydra/python-for-devops-2022/blob/main/Getting_started_python_devops.ipynb#scrollTo=7OZyMC8JrUN2)
 
 #### Important Components
-  * Makefile
-  * Requirements.txt
+  * Makefile 
+  * Requirements.txt 
   * test_library.py
-  * python_library
+  * python_library 
   * Dockerfile
   * CLI
   * Microservices
   
-  1. Create a virtualenv: `virtualenv ~/.venv`
-  2. Edit Bash
+  1. Create files and folders
+    * `touch Makefile`
+    * `touch requirements.txt`
+    * `mkdir lib && touch lib/__init__.py`
+    * `touch hello.py && touch test_hello.py`
+  2. Create a virtual environment 
+    * `py -m venv .venv`
+  3. Edit Bash
+    * `vim ~/.bashrc`
+    * `source ~/.venv/bin/activate`
 
 ### Create CLI (Command Line Tools)
 
