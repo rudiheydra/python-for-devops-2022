@@ -6,7 +6,7 @@ lint:
 	pylint --disable=R,C *.py lib
 
 test:
-	python -m pytest -vv --cov=lib test_*.py
+	python -m pytest -vv test_*.py
 
 format:
 	black *.py lib/*.py
