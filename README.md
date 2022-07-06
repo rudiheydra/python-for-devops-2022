@@ -47,6 +47,10 @@ You can view the full YouTube video [here](https://www.youtube.com/watch?v=kwZNp
 
 ### Create CLI (Command Line Tools)
 
+  * Create CLI with pyhton fire
+  * run pyhton hello.py with flag --beverage muffins
+  
+
 ### Create Microservices
 
 ### Containerized Continuous Delivery
