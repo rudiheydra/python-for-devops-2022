@@ -46,11 +46,14 @@ You can view the full YouTube video [here](https://www.youtube.com/watch?v=kwZNp
     * vim ~/.bashrc
     * source ~/.venv/bin/activate
 
+  #### 4. Final step
+    * clone project and run `make all`
+
 ### Create CLI (Command Line Tools)
 
   * Create CLI with pyhton fire
   * run pyhton hello.py with flag --beverage muffins
-  
+
 
 ### Create Microservices
 
