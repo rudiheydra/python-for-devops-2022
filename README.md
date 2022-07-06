@@ -37,10 +37,11 @@ You can view the full YouTube video [here](https://www.youtube.com/watch?v=kwZNp
   ##### 1. Create files and folders
     * touch Makefile
     * touch requirements.txt
-    * mkdir lib && touch lib/__init__.py
+    * mkdir devopslib && touch devopslib/__init__.py
     * touch hello.py && touch test_hello.py
   ##### 2. Create a virtual environment 
-    * py -m venv .venv
+    * python3 -m venv .venv
+    * source ~/.venv/bin/activate
   ##### 3. Edit Bash
     * vim ~/.bashrc
     * source ~/.venv/bin/activate
