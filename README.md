@@ -35,15 +35,15 @@ You can view the full YouTube video [here](https://www.youtube.com/watch?v=kwZNp
   * Microservices
   
   ##### 1. Create files and folders
-    * `touch Makefile`
-    * `touch requirements.txt`
-    * `mkdir lib && touch lib/__init__.py`
-    * `touch hello.py && touch test_hello.py`
+    * touch Makefile
+    * touch requirements.txt
+    * mkdir lib && touch lib/__init__.py
+    * touch hello.py && touch test_hello.py
   ##### 2. Create a virtual environment 
-    * `py -m venv .venv`
+    * py -m venv .venv
   ##### 3. Edit Bash
-    * `vim ~/.bashrc`
-    * `source ~/.venv/bin/activate`
+    * vim ~/.bashrc
+    * source ~/.venv/bin/activate
 
 ### Create CLI (Command Line Tools)
 
