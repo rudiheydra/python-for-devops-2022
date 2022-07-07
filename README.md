@@ -1,6 +1,9 @@
 
 
 [![Test Multiple Python Versions](https://github.com/rudiheydra/python-for-devops-2022/actions/workflows/main.yml/badge.svg)](https://github.com/rudiheydra/python-for-devops-2022/actions/workflows/main.yml)
+
+[![AWS CodeBuild](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiYUlDcjViS0VrZkdVTU5jRWZYYjV4M29DRDc0WGp2R0pNNWlUUnAwWWtCUHBZT3N2RTc1NEVjbDhreU1WS25QNkFBUGFZcGd3V2RBU3RvVC9DbVNwOVVvPSIsIml2UGFyYW1ldGVyU3BlYyI6ImthbjJGUjBiQXJNcDZRdFAiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+
 # python-for-devops-2022
 
 python-for-devops-2022
