@@ -56,6 +56,7 @@ You can view the full YouTube video [here](https://www.youtube.com/watch?v=kwZNp
 
 
 ### Create Microservices
+  * run pyhton main.py
   * Go to http://localhost:8080/docs to view Swagger Documentation
   ![SwaggerDocs](https://user-images.githubusercontent.com/53549619/177696504-99eab719-f04a-49ef-8b65-69848bdad857.PNG)
 
