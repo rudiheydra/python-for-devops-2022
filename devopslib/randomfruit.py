@@ -11,5 +11,5 @@ def meal(beverage):
     if my_fruit == "cherry":
         return f"I love {my_fruit}" + "pie"
     elif my_fruit == "apple" and beverage == "muffins":
-        return f"I love {my_fruit}" + " " + beverage
+        return f"I totally love {my_fruit}" + " " + beverage
     return f"I don't like {my_fruit}"
