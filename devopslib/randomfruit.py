@@ -1,8 +1,10 @@
 from random import choices
 
+
 def pick_fruit():
     fruits = ["apple", "cherry", "strawberry"]
     return choices(fruits)[0]
+
 
 def meal(beverage):
     my_fruit = pick_fruit()
@@ -11,5 +13,3 @@ def meal(beverage):
     elif my_fruit == "apple" and beverage == "muffins":
         return f"I love {my_fruit}" + " " + beverage
     return f"I don't like {my_fruit}"
-
-
