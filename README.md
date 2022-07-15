@@ -2,7 +2,7 @@
 
 [![Python Continuous Integration Badge](https://github.com/rudiheydra/python-for-devops-2022/actions/workflows/main.yml/badge.svg)](https://github.com/rudiheydra/python-for-devops-2022/actions/workflows/main.yml)
 
-[![AWS CodeBuild Badge]https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiUUtoaEpUVEtSR1hjR3QzNVFiK0xvaFlaYUJZUkZCNVRwRFJpUGJuUStuSWIvSHovWWl5OURSYTdBMVFUeVFqQzkxNXl0aFFtUE50c2RDK3BWVXZsSWhNPSIsIml2UGFyYW1ldGVyU3BlYyI6IjZ3a3psVUJOOUNBL0ZNbFIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[![AWS CodeBuild Badge](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiUUtoaEpUVEtSR1hjR3QzNVFiK0xvaFlaYUJZUkZCNVRwRFJpUGJuUStuSWIvSHovWWl5OURSYTdBMVFUeVFqQzkxNXl0aFFtUE50c2RDK3BWVXZsSWhNPSIsIml2UGFyYW1ldGVyU3BlYyI6IjZ3a3psVUJOOUNBL0ZNbFIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 # python-for-devops-2022
 
